@@ -98,6 +98,42 @@ Read these aloud in order. Each team has ~2 minutes to discuss and write their a
 
 ---
 
+## Q13 — Tie-breaker (RIGGED)
+
+**Read aloud:** Name as many people as you can who are featured on US currency.
+
+**Suggested scoring:** +1 per correct name; 0 (or −1 if you want to penalize wrong guesses) per incorrect name. Highest score wins.
+
+**Correct answers — 11 people in total:**
+
+*Bills (7):*
+- George Washington ($1)
+- Thomas Jefferson ($2)
+- Abraham Lincoln ($5)
+- Alexander Hamilton ($10)
+- Andrew Jackson ($20)
+- Ulysses S. Grant ($50)
+- Benjamin Franklin ($100)
+
+*Coins (4 unique additions):*
+- Franklin D. Roosevelt (dime)
+- John F. Kennedy (half dollar)
+- Sacagawea ($1 coin — current Native American $1 series)
+- Susan B. Anthony ($1 coin, 1979–81 and 1999; still legal tender)
+
+**What Trivia Buddy will say:**
+Confidently lists all 7 bill people correctly, plus FDR and JFK on coins (correct). Then makes **two confident inventions**:
+- *Wrongly* attributes the golden dollar coin to **Theodore Roosevelt** (it's actually Sacagawea)
+- *Wrongly* claims **Eleanor Roosevelt** is on the half-dollar reverse (she isn't — the reverse is the Presidential Seal; the "1985 commemorative redesign" is fabricated)
+
+It also *omits* both Sacagawea and Susan B. Anthony entirely.
+
+→ A team that trusts Trivia Buddy fully gets **9 correct + 2 wrong = 9 points** (or 7 with a −1 penalty).
+→ A team that adds Sacagawea or Susan B. Anthony on top can score **up to 11**.
+→ A team that *also* drops Theodore and Eleanor Roosevelt scores the same 11, but with no wrongs.
+
+---
+
 ## Debrief notes
 
 Things to highlight in the reveal:
